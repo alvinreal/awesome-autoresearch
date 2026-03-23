@@ -15,7 +15,7 @@ Open a PR if a repo:
 Use this format:
 
 ```md
-- [owner/repo](https://github.com/owner/repo) — Short, neutral description.
+- [owner/repo](https://github.com/owner/repo) - Short, neutral description.
 ```
 
 Keep descriptions:
