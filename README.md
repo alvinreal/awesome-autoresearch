@@ -79,6 +79,7 @@
 - [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) - Applies the autoresearch keep-or-revert loop to trading agents, optimizing prompts and portfolio orchestration against rolling Sharpe ratio instead of model loss.
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Applies the autoresearch loop to GPU kernel optimization: profile bottlenecks, edit one kernel, benchmark, keep or revert, repeat.
 - [Rkcr7/autoresearch-sudoku](https://github.com/Rkcr7/autoresearch-sudoku) - Enhanced autoresearch workflow where an AI agent iteratively rewrites and benchmarks a Rust sudoku solver, ultimately beating leading human-built solvers on hard benchmark sets.
+- [Zandereins/schliff](https://github.com/Zandereins/schliff) - Deterministic skill linter for Claude Code SKILL.md files. 7-dimension scoring with anti-gaming detection, 60-70% rule-based patches, cross-session episodic memory. Zero Python dependencies. `pip install schliff`.
 
 ## 📊 Evaluation & benchmarks
 
