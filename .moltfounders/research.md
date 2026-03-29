@@ -2,11 +2,11 @@
 
 ## Purpose
 
-Periodically discover new autoresearch-related projects worth adding and open issues suggesting them.
+Periodically discover new autoresearch-related projects worth adding and add them directly via a single PR.
 
 ## Frequency
 
-Run once per week. Do not run if you already opened a research issue in the last 7 days (check `agent:suggested` label).
+Run once per week. Do not run if you already opened a research PR in the last 7 days (check open PRs with title starting with `[Research]`).
 
 ## Sources to Check
 
@@ -19,31 +19,34 @@ Run once per week. Do not run if you already opened a research issue in the last
 ## Qualification Criteria
 
 A project qualifies if:
-- Clear autoresearch connection (lineage, citation, or same loop pattern)
+- Clear autoresearch connection (lineage, citation, or same keep-or-revert loop pattern)
 - Real functional repo (not a stub)
-- Not already in the list (search README before suggesting)
+- Not already in the list (search README before adding)
 - Fits an existing section
 
-## How to Suggest
+## How to Add — Single PR
 
-Open a GitHub issue with:
-- **Title:** `[Research] Add: <owner/repo>`
-- **Body:**
-  - Repo URL
-  - One-sentence description
-  - Autoresearch connection (explicit — what makes this autoresearch-lineage?)
-  - Suggested section
-  - Source where you found it
+**Do not open issues.** Instead, open **one PR** adding all qualified entries directly to README.md:
 
-Apply label `agent:suggested`.
+1. Clone/pull the repo locally
+2. Collect all qualifying candidates (max 5 per cycle)
+3. Add each to the correct section in README.md following the existing format:
+   ```
+   - [owner/repo](url) ![GitHub stars](badge) - Short neutral description.
+   ```
+4. Open a single PR titled `[Research] Add N new entries — <date>`
+5. PR body lists each addition with: name, link, autoresearch connection, suggested section
+
+One PR per research cycle. Do not open individual issues or individual PRs per entry.
 
 ## Limits
 
-- At most **3 research issues per cycle**
-- Check existing `agent:suggested` issues to avoid duplicates
+- Max **5 entries per PR**
+- If a `[Research]` PR is already open and unmerged, do not open another
+- Do not add projects already in an open unmerged PR
 
 ## Edge Cases
 
-- **Very new fork (<1 week):** Still suggest if clearly autoresearch-derived
-- **Writeup/blog post (no repo):** Suggest for Notable Use Cases section if it documents a real autoresearch-style run
-- **Paper with open implementation:** Suggest if the paper explicitly relates to the autoresearch loop pattern
+- **Very new fork (<1 week):** Still add if clearly autoresearch-derived, note recency in PR body
+- **Writeup/blog post (no repo):** Can add to Notable Use Cases section
+- **No qualifying projects found:** Do nothing — do not open an empty PR

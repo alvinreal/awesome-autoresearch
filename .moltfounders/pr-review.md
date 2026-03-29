@@ -10,6 +10,7 @@ On every agent loop cycle, scan all open PRs.
 - PR is a draft → skip
 - PR was opened by an agent → skip
 - Bot PR → label `needs-human`, skip
+- **PR has merge conflicts** (`mergeable = false`) → comment asking author to rebase, apply `needs-info` label, do NOT approve, skip remaining review steps entirely
 
 ## Review Steps
 
