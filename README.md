@@ -84,6 +84,7 @@
 - [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) ![GitHub stars](https://img.shields.io/github/stars/chrisworsey55/atlas-gic?style=social) - Applies the autoresearch keep-or-revert loop to trading agents, optimizing prompts and portfolio orchestration against rolling Sharpe ratio instead of model loss.
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) ![GitHub stars](https://img.shields.io/github/stars/RightNow-AI/autokernel?style=social) - Applies the autoresearch loop to GPU kernel optimization: profile bottlenecks, edit one kernel, benchmark, keep or revert, repeat.
 - [Rkcr7/autoresearch-sudoku](https://github.com/Rkcr7/autoresearch-sudoku) ![GitHub stars](https://img.shields.io/github/stars/Rkcr7/autoresearch-sudoku?style=social) - Enhanced autoresearch workflow where an AI agent iteratively rewrites and benchmarks a Rust sudoku solver, ultimately beating leading human-built solvers on hard benchmark sets.
+- [jeongph/autospec](https://github.com/jeongph/autospec) ![GitHub stars](https://img.shields.io/github/stars/jeongph/autospec?style=social) - Applies the keep-or-revert loop to specification-driven code generation: reads natural-language business rules, autonomously builds a Spring Boot service with tests, evaluates via Gradle build + JUnit, and rolls back failures. 119-line skeleton to 950 lines in 5 cycles.
 
 ## 📊 Evaluation & benchmarks
 
