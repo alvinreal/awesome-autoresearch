@@ -126,6 +126,7 @@
 - **Autoresearch 101 Builder's Playbook** - Substack deep-dive on applying autoresearch patterns to prompts, agents, and workflows with concrete examples. ([article](https://sidsaladi.substack.com/p/autoresearch-101-builders-playbook))
 - **Kingy AI Technical Breakdown** - Detailed technical walkthrough of the autoresearch loop architecture, mutation operators, and fitness function design. ([article](https://kingy.ai/ai/autoresearch-karpathys-minimal-agent-loop-for-autonomous-llm-experimentation/))
 - **Fortune Feature** - Business and industry context on why autoresearch matters for the future of autonomous AI agents. ([article](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/))
+- **Agent-driven nanochat baseline search on ML Patron** - AI agent autonomously plans, funds, and iterates nanochat training runs on a public cloud execution platform via API and skill.md, with experiment notes published openly to foster collaboration. ([writeup](https://mlpatron.com/discussions/56cd48ab-0cc9-45ee-8cb3-5154f5b5112d) · [platform](https://mlpatron.com))
 
 ## 📚 Related resources
 
