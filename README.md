@@ -26,6 +26,7 @@
 
 ## Contents
 
+- [Bernstein](https://github.com/chernistry/bernstein) - Self-evolving multi-agent orchestrator. Agents develop the orchestrator itself — reads codebase, plans improvements, executes them autonomously.
 - [🛠️ General-purpose descendants](#️-general-purpose-descendants)
 - [🔬 Research-agent systems](#-research-agent-systems)
 - [💻 Platform ports and hardware forks](#-platform-ports-and-hardware-forks)
