@@ -26,6 +26,7 @@
 
 ## Contents
 
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Self-evolving multi-agent orchestrator. Agents develop the orchestrator itself — reads codebase, plans improvements, executes them autonomously.
 - [🛠️ General-purpose descendants](#️-general-purpose-descendants)
 - [🔬 Research-agent systems](#-research-agent-systems)
 - [💻 Platform ports and hardware forks](#-platform-ports-and-hardware-forks)
@@ -69,7 +70,6 @@
 - [Sibyl-Research-Team/AutoResearch-SibylSystem](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem) ![GitHub stars](https://img.shields.io/github/stars/Sibyl-Research-Team/AutoResearch-SibylSystem?style=social) - Fully autonomous AI scientist built on Claude Code, with explicit AutoResearch lineage, multi-agent research iteration, GPU experiment execution, and a self-evolving outer loop.
 - [eimenhmdt/autoresearcher](https://github.com/eimenhmdt/autoresearcher) ![GitHub stars](https://img.shields.io/github/stars/eimenhmdt/autoresearcher?style=social) - Early open-source package for automating scientific workflows, currently centered on literature-review generation with an ambition toward broader autonomous research.
 - [hyperspaceai/agi](https://github.com/hyperspaceai/agi) ![GitHub stars](https://img.shields.io/github/stars/hyperspaceai/agi?style=social) - Distributed, peer-to-peer research network where autonomous agents run experiments, gossip findings, maintain CRDT leaderboards, and archive results to GitHub across multiple research domains.
-- [Human-Agent-Society/CORAL](https://github.com/Human-Agent-Society/CORAL) ![GitHub stars](https://img.shields.io/github/stars/Human-Agent-Society/CORAL?style=social) - **CORAL**: Autonomous multi-agent evolution for open-ended discovery ([arXiv:2604.01658](https://arxiv.org/abs/2604.01658)). Long-running agents with shared persistent memory, asynchronous execution, and heartbeat-based interventions; SOTA on 10 math/algorithmic/systems tasks.
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) ![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist?style=social) - **The AI Scientist**: First comprehensive system for fully automatic scientific discovery. From idea generation to paper writing with minimal human supervision.
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) ![GitHub stars](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2?style=social) - Workshop-level automated scientific discovery via agentic tree search. Removes template dependency from v1, generalizes across research domains.
 - [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher) ![GitHub stars](https://img.shields.io/github/stars/HKUDS/AI-Researcher?style=social) - NeurIPS 2025 paper. Full end-to-end research automation: hypothesis → experiments → manuscript → peer review. Production version at [novix.science](https://novix.science/chat).
