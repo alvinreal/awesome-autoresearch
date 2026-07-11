@@ -74,6 +74,7 @@
 - [PouriaRouzrokh/LatteReview](https://github.com/PouriaRouzrokh/LatteReview) - Low-code Python package for **automated systematic literature reviews** via AI-powered agents. ![GitHub stars](https://img.shields.io/github/stars/PouriaRouzrokh/LatteReview?style=social)
 - [LitLLM/LitLLM](https://github.com/LitLLM/LitLLM) - AI-powered literature review assistant using RAG for accurate, well-structured related-work sections in academic writing. ![GitHub stars](https://img.shields.io/github/stars/LitLLM/LitLLM?style=social)
 - [Agent Laboratory](https://agentlaboratory.github.io/) - Three-phase research pipeline: Literature Review → Experimentation → Report Writing, with specialized agents for each phase.
+- [AutoResearch-Factory/Agon](https://github.com/AutoResearch-Factory/Agon) - End-to-end research orchestrator built on one cornerstone principle, Prompt Economy (reusable loops, not one-off prompts), plus five supporting rules; runs scientist/coder/auditor loops across 10+ disciplines, same reusable-loop lineage as autoresearch but scaled to full research programs. ![GitHub stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social)
 
 ## 💻 Platform ports and hardware forks
 
@@ -124,6 +125,7 @@
 - [Autoresearch 101 Builder's Playbook](https://sidsaladi.substack.com/p/autoresearch-101-builders-playbook) - Substack deep-dive on applying autoresearch patterns to prompts, agents, and workflows with concrete examples.
 - [Kingy AI Technical Breakdown](https://kingy.ai/ai/autoresearch-karpathys-minimal-acid-loop-for-autonomous-llm-experimentation/) - Detailed technical walkthrough of the autoresearch loop architecture, mutation operators, and fitness function design.
 - [Fortune Feature](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) - Business and industry context on why autoresearch matters for the future of autonomous AI agents.
+- [What's Missing in Autonomous Research?](https://haizhaoyang.github.io/research/autoresearch-survey.html) - Codes 56 autonomous research systems along seven axes and argues the real gap isn't generating research artifacts (most systems can) but catching weak ones before they ship.
 
 ## 📚 Related resources
 
