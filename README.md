@@ -23,6 +23,7 @@
 
 ## 🛠️ General-purpose descendants
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - GPL-3.0 autonomous penetration testing platform: per-technology agents, 80+ tools, proof-based findings, and a privacy gateway that keeps target data from the model.
 - [kayba-ai/recursive-improve](https://github.com/kayba-ai/recursive-improve) - Recursive self-improvement framework where agents capture execution traces, analyze failure patterns, and apply targeted fixes with keep-or-revert evaluation. ![GitHub stars](https://img.shields.io/github/stars/kayba-ai/recursive-improve?style=social)
 - [vukrosic/auto-research](https://github.com/vukrosic/auto-research) - Docs-only control plane for an open autonomous AI research lab — file-based operating model for human direction and agent execution. ![GitHub stars](https://img.shields.io/github/stars/vukrosic/auto-research?style=social)
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Code skill that generalizes autoresearch into a reusable loop for software, docs, security, shipping, debugging, and other measurable goals. ![GitHub stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=social)
